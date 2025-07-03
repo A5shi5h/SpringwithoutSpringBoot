@@ -3,7 +3,7 @@ package org.example;
 public class Laptop {
 
     public Laptop(){
-        System.out.println("Laptop Constructor");
+        System.out.println("Laptop Constructor running");
     }
 
     public void compile(){
